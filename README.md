@@ -35,7 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaita-saha&show_icons=true&locale=en&layout=compact" alt="advaita-saha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaita-saha&show_icons=true&locale=en" alt="advaita-saha" /></p>
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
