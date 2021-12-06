@@ -36,3 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaita-saha&show_icons=true&locale=en" alt="advaita-saha" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaita-saha&" alt="advaita-saha" /></p>
