@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git &amp; Github : Basic to Advanced](https://advaitasaha.medium.com/git-github-basic-to-advanced-3a7f7813e750?source=rss-165b58b2bf3c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
