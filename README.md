@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/advaita_saha" target="blank"><img src="https://img.shields.io/twitter/follow/advaita_saha?logo=twitter&style=for-the-badge" alt="advaita_saha" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Machine Learning, DSA**
+- 🌱 I’m currently learning **Flutter, Solidity, Blockchain, Ethereum, DSA**
 
 - 📝 I regularly write articles on [http://advaitasaha.medium.com/](http://advaitasaha.medium.com/)
 
