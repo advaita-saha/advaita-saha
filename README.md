@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advaita Saha from India </h1>
-<h3 align="center">An aspiring ML Engineer & Flutter Developer from India</h3>
+<h3 align="center">An aspiring Blockchain Developer & Flutter Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advaita-saha&label=Profile%20views&color=0e75b6&style=flat" alt="advaita-saha" /> </p>
 
