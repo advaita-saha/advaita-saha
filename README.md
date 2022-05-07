@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advaita Saha from India </h1>
-<h3 align="center">An aspiring Blockchain Developer & Flutter Developer from India</h3>
+<h3 align="center">Blockchain & Flutter Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advaita-saha&label=Profile%20views&color=0e75b6&style=flat" alt="advaita-saha" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://advaitasaha.medium.com/](http://advaitasaha.medium.com/)
 
-- 💬 Ask me about **Python, Django, C++, IoT, Flutter, DevOps**
+- 💬 Ask me about **Solidity, Python, Django, C++, IoT, Flutter, Blockchain**
 
 - 📫 How to reach me **adv11sphs@gmail.com**
 
